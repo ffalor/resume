@@ -8,7 +8,6 @@ import Headroom from "react-headroom";
 import Profile from "../components/profile";
 import About from "../components/about";
 import Education from "../components/education";
-import Skills from "../components/skills";
 
 export default function Resume({ allPostsData }) {
   return (
@@ -27,7 +26,6 @@ export default function Resume({ allPostsData }) {
           <About data={resumeData} />
           <Experience data={resumeData} />
           <Education data={resumeData} />
-          <Skills data={resumeData} />
           <Projects data={resumeData} />
         </div>
       </div>

@@ -1,0 +1,155 @@
+{
+  "info": {
+    "name": "Frank Falor",
+    "bio": "I do a little bit of everything. I am a quick learner, and I love a challenge. The reason I pursued a career in IT is that it is always changing. I embrace and seek out the next disruptive technology. I feel the reason I can adapt quickly to new concepts or technologies is that I have a very strong core skillset consisting of many programming languages, Cloud, Configuration Management, and Infrastructure as code. Those skills with a DevOps mindset and a drive to learn makes me feel certain I'll be able to meet any business need.",
+    "email": "ffalor@frankfalor.com",
+    "role": "Lead Cloud Engineer",
+    "city": "Nashville",
+    "state": "TN",
+    "social": [
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/frankfalor/",
+        "icon": ["fab", "linkedin"]
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/ffalor",
+        "icon": ["fab", "github"]
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Tennessee Tech University",
+        "degree": "Bachelor of Science (B.S), Management Information Systems",
+        "graduated": "December 2018",
+        "description": "I graduated Magna Cum Laude with a 3.9/4.0 GPA. I was a College of Business Ambassador. I was selected for membership of Beta Gamma Sigma, the international honor society for collegiate schools of business.",
+        "gpa": "Magna Cum Laude, 3.9"
+      },
+      {
+        "school": "Volunteer State Community College",
+        "degree": "Associate of Science (A.S), Information Systems",
+        "graduated": "December 2016",
+        "description": "Graduated Cum Laude with a 3.6/4.0 GPA.",
+        "gpa": "Cum Laude, 3.6"
+      }
+    ],
+    "certifications": [
+      {
+        "certification": "AWS Certified DevOps Engineer – Professional",
+        "issued": "May 2021",
+        "url": "https://www.credly.com/badges/a915b442-800b-4894-a1fd-0d0c40a3b6a2?source=linked_in_profile"
+      },
+      {
+        "certification": "Puppet Certified Professional",
+        "issued": "January 2019",
+        "url": "https://www.linkedin.com/posts/frankfalor_puppet-certification-activity-6487872801515593728-1piN"
+      },
+      {
+        "certification": "SAFe 4 Practitioner Certification",
+        "issued": "September 2019",
+        "url": "https://www.credly.com/badges/6c4cc6d7-0ea5-4cac-b43a-1c39d4164b3d"
+      }
+    ],
+    "work": [
+      {
+        "company": "Deloitte",
+        "title": "Lead Cloud Engineer",
+        "years": "May 2021 - Present",
+        "description": "In my new role, I will help change how we do configuration management by taking a cloud native approach. I will encourage and promote development best practices like testing, CI/CD, and coding best practices. I will help design and develop cloud solutions that will allow us to iterate fast and release often."
+      },
+      {
+        "company": "Deloitte",
+        "title": "Associate Analyst",
+        "years": "January 2019 - May 2021",
+        "description": "Worked on many projects over the last few years. Notable examples are implemented and maintained Puppet for the member firm, created an automated on-premise server provisioning process, and API development."
+      },
+      {
+        "company": "Deloitte",
+        "title": "ITS Intern",
+        "years": "June 2017 - January 2019",
+        "description": "Focused on Automation of on-premise Server provisioning and configuration management."
+      },
+      {
+        "company": "Freelancer",
+        "title": "Samsung Gear App Development",
+        "years": "Auguest 2016 - Present",
+        "description": "As a hobby, I write Samsung Gear Applications for Samsung Smartwatches. The watches are based on the TizenOS. The apps are mainly built with JavaScript."
+      }
+    ],
+    "skills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "Ansible",
+      "K8, ECS, Fargate",
+      "Github Actions",
+      "Real DevOps",
+      "CI/CD",
+      "Unit Testing",
+      "API Development",
+      "Pipelines",
+      "JavaScript",
+      "PowerShell",
+      "Configuration Management",
+      "Automation",
+      "Troubleshooting",
+      "Self-motivated",
+      "Ruby",
+      "NodeJs",
+      "Puppet Enterprise",
+      "Puppet Task/Puppet Bolt"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Codename Umbrella",
+      "description": "Over the last few years I've been very slowly and casually developing a game for PC and Console. This is a pure passion project initialy created because I could not find a game with all the elements I enjoy. The game combines multiple game genres, RTS Controls, Resouce Management, Base Building, and a Progressive Difficulty System with unlimited scale. Powered by Unreal, written with C++.",
+      "tags": [
+        "C++",
+        "Complex Systems",
+        "Unreal Engine",
+        "UI Design",
+        "Graphic Design",
+        "Game Design"
+      ]
+    },
+    {
+      "title": "This Website",
+      "description": "This website was a side project to play with React and Javascript. The whole website is generated from a JSON file. Feel free to use this as a template for your own website.",
+      "url_title": "Github Repository",
+      "url": "https://github.com/ffalor/resume",
+      "tags": ["React", "Javascript", "CSS", "Tailwindcss", "NextJS"]
+    },
+    {
+      "title": "Runelite Plugins",
+      "description": "Runelite is a extremely popular open source game client for the MMO Runescape. As a hobby, I often contribute to this project and create plugins to be used by the community. Runelite has an normal daily user base of around 120k players, and my plugins, as of this writing, are installed by around 32k users.",
+      "url_title": "Github Repository",
+      "url": "https://github.com/runelite/runelite",
+      "tags": ["Java"]
+    },
+    {
+      "title": "Group Members Task",
+      "description": "Puppet task module that allows you to add or remove members to an already existing local windows group. Can be used to automate the addition and removal of access on multiple machines.",
+      "url_title": "Forge Link",
+      "url": "https://forge.puppet.com/modules/ffalor/groupmembers",
+      "tags": ["Puppet", "Powershell", "Ruby"]
+    },
+    {
+      "title": "Registry Task",
+      "description": "Puppet task module that allows you create, delete, and update registry keys on windows. Commonly used to automate the configuration of windows machines.",
+      "url_title": "Forge Link",
+      "url": "https://forge.puppet.com/modules/ffalor/registry",
+      "tags": ["Puppet", "Powershell", "Ruby"]
+    },
+    {
+      "title": "Resolve SID Task",
+      "description": "Puppet task module that allows you to remove unresolvable sids from local groups. This task can be used to fix common unresolveable sid error.",
+      "url_title": "Forge Link",
+      "url": "https://forge.puppet.com/modules/ffalor/resolve_sid",
+      "tags": ["Puppet", "Powershell", "Ruby"]
+    }
+  ]
+}

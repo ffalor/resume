@@ -78,6 +78,29 @@
         "years": "Auguest 2016 - Present",
         "description": "As a hobby, I write Samsung Gear Applications for Samsung Smartwatches. The watches are based on the TizenOS. The apps are mainly built with JavaScript."
       }
+    ],
+    "skills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "Ansible",
+      "K8, ECS, Fargate",
+      "Github Actions",
+      "Real DevOps",
+      "CI/CD",
+      "Unit Testing",
+      "API Development",
+      "Pipelines",
+      "JavaScript",
+      "PowerShell",
+      "Configuration Management",
+      "Automation",
+      "Troubleshooting",
+      "Self-motivated",
+      "Ruby",
+      "NodeJs",
+      "Puppet Enterprise",
+      "Puppet Task/Puppet Bolt"
     ]
   },
   "projects": [
